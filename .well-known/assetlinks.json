@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.katzenkotz_droid.twa",
+        "sha256_cert_fingerprints": ["54:C3:4A:BB:86:4D:A3:3E:A0:59:FD:BD:74:BE:87:90:01:F7:F6:2A:35:A9:52:A7:89:84:53:D7:EB:45:C0:E3"]
+      }
+    }] 
